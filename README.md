@@ -1,7 +1,9 @@
 # Automated monitoring of insects
 <img src="./logo/AMI_logo.png" align="right" width="120" height="120">
 
-This repository contains code to deploy, and analyse data from, the [Automated Monitoring of Insects (AMI) traps](https://www.ceh.ac.uk/ukceh-ami-trap-automated-monitoring-insects). 
+This repository contains code to deploy on the [Automated Monitoring of Insects (AMI) traps](https://www.ceh.ac.uk/ukceh-ami-trap-automated-monitoring-insects). This includes species classifiers that work on the device.
+
+This repository is a companion to code for [managing](https://github.com/RolnickLab/ami-data-manager) and [classifying](https://github.com/RolnickLab/gbif-species-trainer) images away from the AMI systems.
 
 &nbsp;
 
