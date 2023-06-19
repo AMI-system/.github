@@ -1,7 +1,7 @@
 # Automated monitoring of insects
 <img src="https://github.com/AMI-trap/.github/blob/main/logo/AMI_logo.png" align="right" width="120" height="120">
 
-This repository contains code to deploy, and analyse data from, the [Automated Monitoring of Insects (AMI) traps](https://www.ceh.ac.uk/ukceh-ami-trap-automated-monitoring-insects). 
+This organisation hosts the source code of software for deploying, and analysing data from, the [Automated Monitoring of Insects (AMI) traps](https://www.ceh.ac.uk/ukceh-ami-trap-automated-monitoring-insects). 
 
 &nbsp;
 
