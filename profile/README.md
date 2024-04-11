@@ -11,7 +11,7 @@ This organisation hosts the source code of software for deploying, and analysing
 
 - **AMBER: Automated Monitoring of Biodiversity using Edge Processing**
 
-    This is a collaboration between the [UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/) and the [Turing Institute](https://www.turing.ac.uk/). The project aims to develop a on device systems for automated identification of insects.
+    This is a collaboration between the [UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/) and [the Alan Turing Institute](https://www.turing.ac.uk/). The project aims to develop a on device systems for automated identification of insects.
 
 &nbsp;
 
