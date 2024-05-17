@@ -11,7 +11,7 @@ This organisation hosts the source code of software for deploying, and analysing
 The AMI project is a collaboration between a number of different institutions including:
 
 
-[<img src="https://github.com/AMI-system/.github/blob/main/logo/logo/ukceh.png" alt="UKCEH Logo" height="50">](https://www.ceh.ac.uk/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/AMI-system/.github/blob/main/logo/ukceh.png" alt="UKCEH Logo" height="50">](https://www.ceh.ac.uk/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/AMI-system/.github/blob/main/logo/espace_montreal.png" alt="Espace pour la vie Montreal Logo" height="50">](https://espacepourlavie.ca/en) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/AMI-system/.github/blob/main/logo/mila.png" alt="MILA Logo" height="50">](https://mila.quebec/en) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/AMI-system/.github/blob/main/logo/vermont_ecostudies.png" alt="Vermont center for ecostudies logo Logo" height="50">](https://vtecostudies.org/) &nbsp;&nbsp;&nbsp;&nbsp;
