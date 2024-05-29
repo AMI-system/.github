@@ -24,7 +24,7 @@ The AMI project is a collaboration between a number of different institutions in
 
 &nbsp;
 
-## Current Projects
+## Current Project Repos Included Here
 
 **AMBER: Automated Monitoring of Biodiversity using Edge Processing and Remote Sensors**
 
