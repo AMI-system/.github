@@ -34,3 +34,4 @@ This is a collaboration between the [UKCEH](https://www.ceh.ac.uk/) and [the Ala
 - [species_classifier](https://github.com/AMI-system/species_classifier): Training a deep learning model for insect species classification.
 <!--- [compress_models]() --->
 - [pi_inferences](https://github.com/AMI-system/pi_inferences): standalone scripts to perform inferences on a Raspberry Pi.
+- [object-store-sscripts](https://github.com/AMI-system/object-store-scripts/tree/jasmin_inferences) jasmin inferences branch: performs inferences on the JASMIN server
