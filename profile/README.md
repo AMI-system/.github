@@ -30,8 +30,6 @@ The AMI project is a collaboration between a number of different institutions in
 
 This is a collaboration between the [UKCEH](https://www.ceh.ac.uk/) and [the Alan Turing Institute](https://www.turing.ac.uk/). The project aims to develop a on device systems for automated identification of insects. More info [here](https://www.turing.ac.uk/research/research-projects/amber-ai-assisted-monitoring-biodiversity-using-edge-processing-and). The repositories involved in this project are:
 - [gbif_download_standalone](https://github.com/AMI-system/gbif_download_standalone): A standalone tool to download images from the GBIF database according to a species list.
-<!--- [binary_moth_detector]() --->
 - [species_classifier](https://github.com/AMI-system/species_classifier): Training a deep learning model for insect species classification.
-<!--- [compress_models]() --->
 - [pi_inferences](https://github.com/AMI-system/pi_inferences): standalone scripts to perform inferences on a Raspberry Pi.
-- [object-store-sscripts](https://github.com/AMI-system/object-store-scripts/tree/jasmin_inferences) jasmin inferences branch: performs inferences on the JASMIN server
+- [object-store-scripts](https://github.com/AMI-system/object-store-scripts/tree/jasmin_inferences) jasmin inferences branch: performs inferences on the JASMIN server
