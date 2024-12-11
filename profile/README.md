@@ -32,4 +32,4 @@ This is a collaboration between the [UKCEH](https://www.ceh.ac.uk/) and [the Ala
 - [gbif_download_standalone](https://github.com/AMI-system/gbif_download_standalone): A standalone tool to download images from the GBIF database according to a species list.
 - [species_classifier](https://github.com/AMI-system/species_classifier): Training a deep learning model for insect species classification.
 - [pi_inferences](https://github.com/AMI-system/pi_inferences): standalone scripts to perform inferences on a Raspberry Pi.
-- [object-store-scripts](https://github.com/AMI-system/object-store-scripts/tree/jasmin_inferences) jasmin inferences branch: performs inferences on the JASMIN server
+- [amber-inferences](https://github.com/AMI-system/amber-inferences): performs inferences on AMBER data for the JASMIN or Baskerville servers
